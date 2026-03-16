@@ -2,3 +2,7 @@ __pychache___/
 *.pyc
 
 .venv/
+.python-version
+uv.lock
+
+output/
